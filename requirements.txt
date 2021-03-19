@@ -1,0 +1,7 @@
+aiomultiprocess
+rich
+pyyaml
+python-evtx
+dict-toolbox
+xmljson
+yara-python
